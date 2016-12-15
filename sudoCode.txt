@@ -1,0 +1,5 @@
+use jquery to set height for all
+
+get height for all divs in mars api
+
+on resize change size of all mars divs to same height and width
